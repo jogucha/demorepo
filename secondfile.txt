@@ -1,3 +1,5 @@
 This is the second file
 ADDED: new line
 ADDED: one more change
+ADDED: another change!
+ADDED: my gosh
