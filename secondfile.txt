@@ -3,3 +3,4 @@ ADDED: new line
 ADDED: one more change
 ADDED: another change!
 ADDED: my gosh
+ADDED: Lets test merge conflicts!!
