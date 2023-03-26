@@ -4,3 +4,4 @@ ADDED: one more change
 ADDED: another change!
 ADDED: my gosh
 ADDED: Lets test merge conflicts!!
+ADDED: Changes in the new DEV branch. Let's generate a merge conflict.
